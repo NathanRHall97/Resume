@@ -1,5 +1,5 @@
 # Resume
-  - [Resume PDF](https://github.com/NathanRHall97/Resume)
+  - [Resume PDF](https://github.com/NathanRHall97/Resume/blob/master/NRHResume.pdf)
 ## Project Links
   - [Cheap Eats Andriod Application](https://github.com/NathanRHall97/Cheap-Eats-Application) <br/>
   - [Pitt Social Database Application](https://github.com/NathanRHall97/PittSocial)
